@@ -4,8 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.29393115942028986" />
-        <entry key="app/src/main/res/layout/item_view_movie_adapter.xml" value="0.17604166666666668" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.15830800405268491" />
+        <entry key="app/src/main/res/layout/activity_movie_detail.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/item_view_movie_adapter.xml" value="0.12037037037037036" />
+        <entry key="app/src/main/res/layout/item_view_review_adapter.xml" value="0.17552083333333332" />
       </map>
     </option>
   </component>
